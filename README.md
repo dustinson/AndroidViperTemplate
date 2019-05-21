@@ -1,4 +1,7 @@
-# Android Viper Architecture: Template
+
+<img src="./Demo/cover.png" alt="cover image - Android Viper Architecture">
+
+## Android Viper Architecture: Template
 
 This repository contains a detailed sample app that implements VIPER architecture in Android.
 
