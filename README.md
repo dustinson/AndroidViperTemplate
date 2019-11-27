@@ -29,7 +29,7 @@ If you have any suggestions or questions feel free to make a Pull Request or con
 
 ## Author
 #### Alexander Borovskoy
-Android developer at [OmiSoft](https://omisoft.net)
+Android developer at [OmiSoft](https://omisoft.net/?utm_source=github&utm_medium=social)
 
 ## License
 Android Viper Architecture Template is released under the MIT license.  
